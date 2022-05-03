@@ -1,6 +1,4 @@
 import json
-import exceptions
-import logging
 
 
 def reading_posts(path):
